@@ -1,0 +1,16 @@
+{
+  "name": "Eclipse Canvas",
+  "short_name": "Eclipse Canvas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080611",
+  "theme_color": "#6f35ff",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
